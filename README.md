@@ -26,12 +26,12 @@ python src/spam_classifier.py
 ## 📊 Model Evaluation
 
 - **Naive Bayes**
-- Accuracy: _XX%_
+- Accuracy: _90%_
 - Confusion Matrix
 - Classification Report
 
 - **Support Vector Machines (SVM)**
-- Accuracy: _XX%_
+- Accuracy: _90%_
 - Confusion Matrix
 - Classification Report
 
